@@ -182,8 +182,8 @@ tr:hover {
 }
 
 .cover-art {
-    width: 150px;
-    height: 150px;
+    width: 215px;
+    height: 215px;
     object-fit: cover;
     border-radius: 4px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.5);
@@ -353,11 +353,4 @@ tr:hover {
 .modal-close:hover {
     background-color: rgba(255, 255, 255, 0.1);
     color: #fff;
-}
-
-.card-img canvas {
-    width: 100% !important;
-    height: 100% !important;
-    display: block;
-    object-fit: cover;
 }
