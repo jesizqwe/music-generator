@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000/api/songs';
+const API_URL = '/api/songs';
 
 export const fetchSongs = async (params) => {
     const queryParams = new URLSearchParams(params).toString();
