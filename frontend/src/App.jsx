@@ -113,12 +113,12 @@ const App = () => {
     return (
         <div className="app-container">
             <header style={{marginBottom: '20px', borderBottom: '1px solid #333', paddingBottom: '10px'}}>
-                <h1 style={{margin: 0}}>Music Store Showcase</h1>
+                <h1 style={{margin: 0}}>Music Store</h1>
             </header>
 
             <div className="toolbar">
                 <div className="control-group">
-                    <label>Language / Мова</label>
+                    <label>Language</label>
                     <select value={locale} onChange={e => setLocale(e.target.value)}>
                         <option value="en-US">English (USA)</option>
                         <option value="uk-UA">Українська (Україна)</option>
