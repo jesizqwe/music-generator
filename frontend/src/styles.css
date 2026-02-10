@@ -354,3 +354,9 @@ tr:hover {
     background-color: rgba(255, 255, 255, 0.1);
     color: #fff;
 }
+
+.card-img .cover-art {
+    width: 100% !important;
+    height: 100% !important;
+    display: block;
+}
