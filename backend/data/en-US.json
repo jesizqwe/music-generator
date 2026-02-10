@@ -1,0 +1,25 @@
+{
+  "adjectives": [
+    "Fast", "Slow", "Electric", "Dark", "Shiny", "Broken", "Silent", "Cosmic", "Wild", "Golden", "Last", "First", "Urban", "Digital", "Analog"
+  ],
+  "nouns": [
+    "Carrot", "Dream", "Highway", "Machine", "Whisper", "Thunder", "Miracle", "System", "Paradox", "Horizon", "Echo", "Fire", "Ice", "Shadow", "Light"
+  ],
+  "artists": [
+    "The Beatles", "Daft Punk", "Arctic Monkeys", "Radiohead", "Queen", "Nirvana", "Pink Floyd", "Led Zeppelin", "Beyoncé", "Taylor Swift"
+  ],
+  "albums": [
+    "Abbey Road", "Discovery", "AM", "OK Computer", "A Night at the Opera", "Nevermind", "The Dark Side of the Moon", "IV", "Lemonade", "1989"
+  ],
+  "genres": [
+    "Pop", "Rock", "Jazz", "Electronic", "Classical", "Hip-Hop", "R&B", "Indie", "Metal", "Blues"
+  ],
+  "reviewTemplates": [
+    "A masterpiece of modern sound. {genre} at its finest.",
+    "Absolutely captivating. The {adj} vibes are unstoppable.",
+    "I can't stop listening to this {noun}!",
+    "A solid effort, but not their best work.",
+    "Groundbreaking rhythms and melodies."
+  ],
+  "singleAlbum": "Single"
+}
